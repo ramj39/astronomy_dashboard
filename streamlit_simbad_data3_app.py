@@ -30,3 +30,5 @@ if st.button("Open Stellarium"):
     import webbrowser as wb
     wb.open(url)
     st.success("Opened Stellarium website in your default browser!")
+if st.button("Open Stellarium Web"):
+    st.markdown("[Click here to open Stellarium Web](https://stellarium-web.org)")
