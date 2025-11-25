@@ -1,6 +1,6 @@
 streamlit
 requests
-#astroquery.skyview
+webbrowser
 astroquery
 matplotlib
 numpy
