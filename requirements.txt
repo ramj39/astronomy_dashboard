@@ -1,6 +1,6 @@
 streamlit
-requests
-webbrowser
 astroquery
-matplotlib
+pandas
 numpy
+matplotlib
+pubchempy
