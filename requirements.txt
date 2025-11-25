@@ -1,0 +1,7 @@
+streamlit
+requests
+webbrowser
+astroquery.skyview
+astroquery
+matplotlib.pyplot
+numpy
